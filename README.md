@@ -1,12 +1,24 @@
-# Gerador de Senhas
-Projeto com o intuito de contribuir com os processos de operações, principalmente na criação de acessos e soluções de chamados
+# Gerador de Senhas 🔐🔢
 
-- Implementação do recurso de copiar todas cinco senhas
-- Botão de reiniciar que atualiza todas as senhas
-- Todas senhas geradas excluem caracteres que são facilmente confudidos uns com os outros
-- Todas senhas geradas passam no teste de força de senha com um nível tolerável de complexidade para o usuário final
+## Descrição
 
-<a href="https://www.python.org/" target="_blank">
-<img src="assets/pngegg.png"
-width="100" height="100" alt="logo-python.png"></img>
-</a>
+O Gerador de Senhas é um projeto dedicado a otimizar os processos operacionais, especialmente na criação de acessos e resolução de chamados.
+
+## Funcionalidades Principais
+
+- 📋 **Copiar Todas as Cinco Senhas:** Facilita a obtenção rápida de todas as senhas geradas.
+- 🔁 **Botão de Reiniciar:** Atualiza todas as senhas instantaneamente.
+- 🔒 **Exclusão de Caracteres Confundíveis:** Senhas geradas excluem caracteres facilmente confundíveis.
+- 🔐 **Teste de Força de Senha:** As senhas atendem a um nível tolerável de complexidade para o usuário final.
+
+## Como Clonar
+
+1. **Clone o Repositório**
+```bash
+git clone https://github.com/rauloliveiratech/Gerador_de_Senhas
+cd Gerador_de_Senhas
+```
+
+## Contribuição
+
+- 🤝 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
